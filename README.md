@@ -24,7 +24,9 @@ A simple weather app built with HTML, CSS, and JavaScript that shows current wea
 ## Setup
 
 1. Clone the repo
-2. Run `index.html` in browser
-3. Enter a city and press "Search"
+2. Grab your own API key from OpenWeather.com
+3. Input API into proper areas
+4. Run `index.html` in browser
+5. Enter a city and press "Search"
 
 
