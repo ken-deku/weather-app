@@ -27,5 +27,4 @@ A simple weather app built with HTML, CSS, and JavaScript that shows current wea
 2. Run `index.html` in browser
 3. Enter a city and press "Search"
 
-## License
 
