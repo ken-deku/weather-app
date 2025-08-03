@@ -29,4 +29,3 @@ A simple weather app built with HTML, CSS, and JavaScript that shows current wea
 
 ## License
 
-[MIT](LICENSE)
